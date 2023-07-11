@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fmasthead-gifs&psig=AOvVaw0s3IAvz1MTQeAtXhnHkJFy&ust=1668956877974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiN3rTDuvsCFQAAAAAdAAAAABAE)](https://louis12345642.github.io/Mubarak_kual/?)
+
 <h1 align="center">Hi 👋, I'm Mubarak kual louis</h1>
 <img alt="coding" align="rigth" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h3 align="center">A passionate full-stack developer from South Sudan</h3>
