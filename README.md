@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mubarak kual louis</h1>
+<h1 align="center">Hi 👋, I'm Mubarak kual Louis</h1>
 <h3 align="center">A passionate software Engineer</h3>
 <p>Hi there! I'm Mubarak, a software engineer with experience in building practical and scalable solutions. I enjoy working on projects that solve real-world problems and deliver value to users. I'm also the founder of VelocityDev, a tech agency where we collaborate with clients to create custom websites, mobile apps, and digital solutions.</p>
 
