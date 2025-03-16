@@ -25,7 +25,7 @@
 <br>
 
 <h3>My Projects 💻 🎖🎉</h3>
-<hr/
+<hr/>
 <h3><a href="https://github.com/Mubaraklouis/hospital-management-system" target="_blank">Hospital Management System</a></h3>
 <p>
   A comprehensive hospital management system built with <strong>Inertia.js</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>. 
