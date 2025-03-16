@@ -77,7 +77,7 @@
   <tr>
     <!-- GitHub Streak Stats Card -->
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubaraklouis&" alt="louis1234546" />
     </td>
   </tr>
 </table>
