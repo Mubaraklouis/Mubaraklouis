@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Mubarak kual louis</h1>
-<img alt="coding" align="rigth" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h3 align="center">A passionate full-stack developer from South Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis1234546&label=Profile%20views&color=0e75b6&style=flat" alt="louis1234546" /> </p>
