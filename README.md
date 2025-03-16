@@ -24,13 +24,36 @@
 
 <br>
 <h3>My Projects💻</h3>
-<ul>
-  <li><strong>Hospital Management System:</strong> Built with <strong>Inertia.js</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>. Features: Appointment scheduling, role-based access, patient records, real-time notifications.</li>
-  <li><strong>Scalable API for E-Learning Platform:</strong> Built with <strong>Laravel</strong>. Features: Course management, assignment tracking, progress tracking, real-time notifications.</li>
-  <li><strong>SignBridge - Real-Time Sign Language Translator:</strong> Built with <strong>Next.js</strong>, <strong>Laravel</strong>, and <strong>Socket.io</strong>. Features: Real-time translation, text/speech output, cross-platform compatibility.</li>
-  <li><strong>Real-Time Document Collaboration API:</strong> Built with <strong>Laravel</strong>. Features: Real-time editing, version control, user permissions, notifications.</li>
-  <li><strong>Inventory Management System:</strong> Built with <strong>Laravel</strong>, <strong>Inertia.js</strong>, and <strong>Vue.js</strong>. Features: Inventory tracking, barcode scanning, real-time notifications, reporting.</li>
-</ul>
+<h3><a href="https://github.com/your-username/hospital-management-system" target="_blank">Hospital Management System</a></h3>
+<p>
+  A comprehensive hospital management system built with <strong>Inertia.js</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>. 
+  It streamlines hospital operations with features like appointment scheduling, role-based access, patient record management, and real-time notifications.
+</p>
+
+<h3><a href="https://github.com/your-username/e-learning-platform-api" target="_blank">Scalable API for E-Learning Platform</a></h3>
+<p>
+  A robust and scalable API built with <strong>Laravel</strong> for a student e-learning platform. 
+  It enables course management, assignment tracking, progress monitoring, and real-time notifications for students and instructors.
+</p>
+
+<h3><a href="https://github.com/your-username/signbridge" target="_blank">SignBridge - Real-Time Sign Language Translator</a></h3>
+<p>
+  A real-time sign language translator built with <strong>Next.js</strong>, <strong>Laravel</strong>, and <strong>Socket.io</strong>. 
+  It translates sign language into text and speech in real-time, featuring a user-friendly interface and cross-platform compatibility.
+</p>
+
+<h3><a href="https://github.com/your-username/document-collaboration-api" target="_blank">Real-Time Document Collaboration API</a></h3>
+<p>
+  A real-time document collaboration API built with <strong>Laravel</strong>. 
+  It allows multiple users to collaborate on documents simultaneously, with features like real-time editing, version control, and notifications for changes.
+</p>
+
+<h3><a href="https://github.com/your-username/inventory-management-system" target="_blank">Inventory Management System</a></h3>
+<p>
+  An inventory management system built with <strong>Laravel</strong>, <strong>Inertia.js</strong>, and <strong>Vue.js</strong>. 
+  It helps businesses track inventory levels, manage stock, and generate reports, with features like barcode scanning and real-time notifications.
+</p>
+
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" /></p>
