@@ -23,32 +23,34 @@
 </ul>
 
 <br>
-<h3>My Projects💻</h3>
-<h3><a href="https://github.com/your-username/hospital-management-system" target="_blank">Hospital Management System</a></h3>
+
+<h3>My Projects 💻 🎖🎉</h3>
+<hr/
+<h3><a href="https://github.com/Mubaraklouis/hospital-management-system" target="_blank">Hospital Management System</a></h3>
 <p>
   A comprehensive hospital management system built with <strong>Inertia.js</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>. 
   It streamlines hospital operations with features like appointment scheduling, role-based access, patient record management, and real-time notifications.
 </p>
 
-<h3><a href="https://github.com/your-username/e-learning-platform-api" target="_blank">Scalable API for E-Learning Platform</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/e-learning-platform-api" target="_blank">Scalable API for E-Learning Platform</a></h3>
 <p>
   A robust and scalable API built with <strong>Laravel</strong> for a student e-learning platform. 
   It enables course management, assignment tracking, progress monitoring, and real-time notifications for students and instructors.
 </p>
 
-<h3><a href="https://github.com/your-username/signbridge" target="_blank">SignBridge - Real-Time Sign Language Translator</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/signbridge" target="_blank">SignBridge - Real-Time Sign Language Translator</a></h3>
 <p>
-  A real-time sign language translator built with <strong>Next.js</strong>, <strong>Laravel</strong>, and <strong>Socket.io</strong>. 
+  A real-time sign language translator built with <strong>Next.js</strong>, <strong>Node and Express</strong>, and <strong>Socket.io</strong>. 
   It translates sign language into text and speech in real-time, featuring a user-friendly interface and cross-platform compatibility.
 </p>
 
-<h3><a href="https://github.com/your-username/document-collaboration-api" target="_blank">Real-Time Document Collaboration API</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/document-collaboration-api" target="_blank">Real-Time Document Collaboration API</a></h3>
 <p>
   A real-time document collaboration API built with <strong>Laravel</strong>. 
   It allows multiple users to collaborate on documents simultaneously, with features like real-time editing, version control, and notifications for changes.
 </p>
 
-<h3><a href="https://github.com/your-username/inventory-management-system" target="_blank">Inventory Management System</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/inventory-management-system" target="_blank">Inventory Management System</a></h3>
 <p>
   An inventory management system built with <strong>Laravel</strong>, <strong>Inertia.js</strong>, and <strong>Vue.js</strong>. 
   It helps businesses track inventory levels, manage stock, and generate reports, with features like barcode scanning and real-time notifications.
