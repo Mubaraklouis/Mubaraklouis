@@ -58,26 +58,22 @@
 
 <br>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: auto;">
+## GitHub Stats
+
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: auto;">
   <!-- Top Languages Card -->
   <div>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
   </div>
 
   <!-- GitHub Stats Card -->
   <div>
-    <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" />
   </div>
 
   <!-- GitHub Streak Stats Card -->
   <div style="grid-column: span 2;">
-    <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
-    </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
   </div>
 </div>
 
