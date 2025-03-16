@@ -8,7 +8,10 @@
 <h3>About Me</h3>
 <p>I'm  a software engineer with experience in building scalable and efficient solutions. I enjoy working on projects that solve real-world problems and deliver value to users. My specialization includes working with Laravel (PHP) for backend development, Vue.js and Nuxt.js for frontend development, and deploying and scaling applications using AWS, Docker, Kubernetes, and CI/CD pipelines.</p>
 
+<br>
 
+<h3>Technical Skills 👨‍💻🎖</h3>
+<hr>
 <ul>
   <li><strong>Programming Languages:</strong> PHP, JavaScript, Python</li>
   <li><strong>Frameworks:</strong>Laravel, Inertia, Vue.js, Nuxt, React Native, Express</li>
@@ -20,7 +23,7 @@
 </ul>
 
 
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" /></p>
 
