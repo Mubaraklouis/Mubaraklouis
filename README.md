@@ -58,8 +58,36 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" /></p>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: auto;">
+  <!-- Top Languages Card -->
+  <div>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
+    </p>
+  </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" /></p>
+  <!-- GitHub Stats Card -->
+  <div>
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" />
+    </p>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" /></p>
+  <!-- GitHub Streak Stats Card -->
+  <div style="grid-column: span 2;">
+    <p>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
+    </p>
+  </div>
+</div>
+
+<style>
+  @media (max-width: 768px) {
+    div[style*="grid-template-columns"] {
+      grid-template-columns: 1fr; /* Stack cards vertically on small screens */
+    }
+    div[style*="grid-column: span 2"] {
+      grid-column: span 1; /* Reset full-width card to single column */
+    }
+  }
+</style>
