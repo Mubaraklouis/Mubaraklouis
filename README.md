@@ -60,24 +60,22 @@
 
 ## GitHub Stats
 
-<table align="center" style="border-spacing: 16px;">
+## GitHub Stats
+
+<table align="center">
   <tr>
     <!-- Top Languages Card -->
-    <td style="padding: 8px;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
     </td>
     <!-- GitHub Stats Card -->
-    <td style="padding: 8px;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" />
     </td>
   </tr>
   <tr>
-    <!-- Custom Card: Name and Total Commits -->
-    <td style="padding: 8px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Louis12345642&repo=your-latest-repo&theme=default" alt="Custom Card" />
-    </td>
     <!-- GitHub Streak Stats Card -->
-    <td style="padding: 8px;">
+    <td colspan="2">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
     </td>
   </tr>
