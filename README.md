@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis1234546&label=Profile%20views&color=0e75b6&style=flat" alt="louis1234546" /> </p>
 <br>
-##About Me❤️
+## About Me❤️
 
 <p>I'm  a software engineer with experience in building scalable and efficient solutions. I enjoy working on projects that solve real-world problems and deliver value to users. My specialization includes working with Laravel (PHP) for backend development, Vue.js and Nuxt.js for frontend development, and deploying and scaling applications using AWS, Docker, Kubernetes, and CI/CD pipelines.</p>
 
 <br>
 
-##Technical Skills 👨‍💻🎖
+## Technical Skills 👨‍💻🎖
 
 <ul>
   <li><strong>Programming Languages:</strong> PHP, JavaScript, Python</li>
