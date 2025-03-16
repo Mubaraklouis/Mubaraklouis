@@ -60,30 +60,21 @@
 
 ## GitHub Stats
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: auto;">
-  <!-- Top Languages Card -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
-  </div>
-
-  <!-- GitHub Stats Card -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" />
-  </div>
-
-  <!-- GitHub Streak Stats Card -->
-  <div style="grid-column: span 2;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
-  </div>
-</div>
-
-<style>
-  @media (max-width: 768px) {
-    div[style*="grid-template-columns"] {
-      grid-template-columns: 1fr; /* Stack cards vertically on small screens */
-    }
-    div[style*="grid-column: span 2"] {
-      grid-column: span 1; /* Reset full-width card to single column */
-    }
-  }
-</style>
+<table align="center" style="border-spacing: 16px;">
+  <tr>
+    <!-- Top Languages Card -->
+    <td style="padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis12345642&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
+    </td>
+    <!-- GitHub Stats Card -->
+    <td style="padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=louis12345642&show_icons=true&locale=en" alt="louis1234546" />
+    </td>
+  </tr>
+  <tr>
+    <!-- GitHub Streak Stats Card -->
+    <td colspan="2" style="padding: 8px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
+    </td>
+  </tr>
+</table>
