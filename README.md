@@ -72,8 +72,12 @@
     </td>
   </tr>
   <tr>
+    <!-- Custom Card: Name and Total Commits -->
+    <td style="padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Louis12345642&repo=your-latest-repo&theme=default" alt="Custom Card" />
+    </td>
     <!-- GitHub Streak Stats Card -->
-    <td colspan="2" style="padding: 8px;">
+    <td style="padding: 8px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louis12345642&" alt="louis1234546" />
     </td>
   </tr>
