@@ -57,6 +57,22 @@
   It helps businesses track inventory levels, manage stock, and generate reports, with features like barcode scanning and real-time notifications.
 </p>
 
+## Leadership and Advocacy🎖
+
+<p>I am passionate about sharing knowledge and empowering others in the tech community. Here are some of the ways I contribute:</p>
+
+<ul>
+  <li>
+    <strong>📬 Newsletter & Blog</strong>: I run a <a href="#">newsletter</a> and <a href="#">blog</a> where I regularly post educational content about technology, with a focus on programming. My goal is to make complex concepts accessible and help others grow their skills.
+  </li>
+  <li>
+    <strong>🎓 Teaching Web Development</strong>: At my college, I teach web development fundamentals to students, helping them build a strong foundation in HTML, CSS, JavaScript, and modern frameworks.
+  </li>
+  <li>
+    <strong>🚀 Hackathons</strong>: I actively participate in hackathons in my area, collaborating with like-minded individuals to solve real-world problems and build innovative projects. These experiences have honed my problem-solving skills and allowed me to contribute to impactful solutions.
+  </li>
+</ul>
+
 <br>
 
 
