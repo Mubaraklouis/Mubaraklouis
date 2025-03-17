@@ -65,7 +65,7 @@
 
 <ul>
   <li>
-    <strong>📬 Newsletter & Blog</strong>: 
+    <strong>Newsletter & Blog</strong>: 
     I run a <a href="your-newsletter-link" target="_blank">newsletter</a> and 
     <a href="your-blog-link" target="_blank">blog</a> where I regularly post educational 
     content about technology, with a focus on programming. My goal is to make complex 
@@ -73,13 +73,13 @@
   </li>
 
   <li>
-    <strong>🎓 Teaching Web Development</strong>: 
+    <strong>Teaching Web Development</strong>: 
     At my college, I teach web development fundamentals to students, helping them build 
     a strong foundation in HTML, CSS, JavaScript, and modern frameworks.
   </li>
 
   <li>
-    <strong>🚀 Hackathons</strong>: 
+    <strong>Hackathons</strong>: 
     I actively participate in hackathons in my area, collaborating with like-minded 
     individuals to solve real-world problems and build innovative projects. These 
     experiences have honed my problem-solving skills and allowed me to contribute to 
