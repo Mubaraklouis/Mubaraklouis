@@ -94,7 +94,7 @@
 <ul>
   <li>
     <strong> Email</strong>: 
-    <a >mubaraklouis@gmail.com</a>
+    <a href="gmail.com" >mubaraklouis@gmail.com</a>
   </li>
 
   <li>
@@ -114,7 +114,7 @@
 
   <li>
     <strong>Portfolio</strong>: 
-    <a href="mubaraklouis.netlify.app">Mubarak Kual Louis</a>
+    <a href="https://mubaraklouis.netlify.app">Mubarak Kual Louis</a>
   </li>
 </ul>
 <p>
