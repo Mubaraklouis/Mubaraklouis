@@ -14,7 +14,7 @@
 ## Technical Skills 👨‍💻🎖
 
 <ul>
-  <li><strong>Programming Languages:</strong> PHP, JavaScript, Python</li>
+  <li><strong>Programming Languages:</strong> PHP, Typescript,JavaScript, Python</li>
   <li><strong>Frameworks:</strong>Laravel, Inertia, Vue.js, Nuxt, React Native, Express</li>
   <li><strong>Databases:</strong> MySQL, PostgreSQL,MongoDB</li>
   <li><strong>Mobile Development:</strong> React Native</li>
