@@ -93,23 +93,23 @@
 
 <ul>
   <li>
-    <strong>📧 Email</strong>: 
+    <strong> Email</strong>: 
     <a >mubaraklouis@gmail.com</a>
   </li>
 
   <li>
     <strong>X (Twitter)</strong>: 
-    <a href="https://twitter.com/your-x-handle](https://x.com/LouisMubarak" target="_blank">@LouisMubarak</a>
+    <a href="https://x.com/LouisMubarak" target="_blank">@LouisMubarak</a>
   </li>
 
   <li>
     <strong>LinkedIn</strong>: 
-    <a href="https://www.linkedin.com/in/kual-mubarak-louis-b822b8258/">linkedin.com/in/Mubarak-kaual-Louis</a>
+    <a href="https://www.linkedin.com/in/kual-mubarak-louis-b822b8258/">linkedin.com/in/Mubarak-kual-Louis</a>
   </li>
 
   <li>
     <strong>Instagram</strong>: 
-    <a href="https://instagram.com/your-instagram" target="_blan](https://www.instagram.com/mkay__dev/?__pwa=1">@Mkay_dev</a>
+    <a href="https://www.instagram.com/mkay__dev">@Mkay_dev</a>
   </li>
 
   <li>
@@ -142,7 +142,7 @@
   <tr>
     <!-- GitHub Streak Stats Card -->
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubaraklouis&" alt="louis1234546" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubarakLouis" alt="louis" />
     </td>
   </tr>
 </table>
