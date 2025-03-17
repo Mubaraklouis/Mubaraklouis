@@ -87,6 +87,41 @@
   </li>
 </ul>
 
+
+
+## Contact Me 📇
+
+<ul>
+  <li>
+    <strong>📧 Email</strong>: 
+    <a >mubaraklouis@gmail.com</a>
+  </li>
+
+  <li>
+    <strong>🐦 X (Twitter)</strong>: 
+    <a href="https://twitter.com/your-x-handle](https://x.com/LouisMubarak" target="_blank">@LouisMubarak</a>
+  </li>
+
+  <li>
+    <strong>LinkedIn</strong>: 
+    <a href="https://www.linkedin.com/in/kual-mubarak-louis-b822b8258/">linkedin.com/in/Mubarak-kaual-Louis</a>
+  </li>
+
+  <li>
+    <strong>Instagram</strong>: 
+    <a href="https://instagram.com/your-instagram" target="_blan](https://www.instagram.com/mkay__dev/?__pwa=1">@Mkay_dev</a>
+  </li>
+
+  <li>
+    <strong>Portfolio</strong>: 
+    <a href="mubaraklouis.netlify.app">Mubarak Kual Louis</a>
+  </li>
+</ul>
+<p>
+  I'm always open to connecting, collaborating, or discussing new opportunities. 
+  Feel free to reach out to me through any of the following platforms:
+</p>
+
 <br>
 
 
