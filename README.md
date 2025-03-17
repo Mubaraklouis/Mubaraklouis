@@ -98,7 +98,7 @@
   </li>
 
   <li>
-    <strong>🐦 X (Twitter)</strong>: 
+    <strong>X (Twitter)</strong>: 
     <a href="https://twitter.com/your-x-handle](https://x.com/LouisMubarak" target="_blank">@LouisMubarak</a>
   </li>
 
