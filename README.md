@@ -45,7 +45,7 @@
   It translates sign language into text and speech in real-time, featuring a user-friendly interface and cross-platform compatibility.
 </p>
 
-<h3><a href="https://github.com/Mubaraklouis/document-collaboration-api" target="_blank">Real-Time Document Collaboration API</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/CollabPad" target="_blank">Real-Time Document Collaboration API</a></h3>
 <p>
   A real-time document collaboration API built with <strong>Laravel</strong>. 
   It allows multiple users to collaborate on documents simultaneously, with features like real-time editing, version control, and notifications for changes.
