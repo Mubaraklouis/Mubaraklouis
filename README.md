@@ -39,7 +39,7 @@
   It enables course management, assignment tracking, progress monitoring, and real-time notifications for students and instructors.
 </p>
 
-<h3><a href="https://github.com/Mubaraklouis/signbridge" target="_blank">SignBridge - Real-Time Sign Language Translator</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/Sign-bridge" target="_blank">SignBridge - Real-Time Sign Language Translator</a></h3>
 <p>
   A real-time sign language translator built with <strong>Next.js</strong>, <strong>Node and Express</strong>, and <strong>Socket.io</strong>. 
   It translates sign language into text and speech in real-time, featuring a user-friendly interface and cross-platform compatibility.
