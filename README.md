@@ -51,7 +51,7 @@
   It allows multiple users to collaborate on documents simultaneously, with features like real-time editing, version control, and notifications for changes.
 </p>
 
-<h3><a href="https://github.com/Mubaraklouis/inventory-management-system" target="_blank">Inventory Management System</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/inventory-system-backen" target="_blank">Inventory Management System</a></h3>
 <p>
   An inventory management system built with <strong>Laravel</strong>, <strong>Inertia.js</strong>, and <strong>Vue.js</strong>. 
   It helps businesses track inventory levels, manage stock, and generate reports, with features like barcode scanning and real-time notifications.
