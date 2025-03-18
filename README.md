@@ -33,7 +33,7 @@
   It streamlines hospital operations with features like appointment scheduling, role-based access, patient record management, and real-time notifications.
 </p>
 
-<h3><a href="https://github.com/Mubaraklouis/e-learning-platform-api" target="_blank">Scalable API for E-Learning Platform</a></h3>
+<h3><a href="https://github.com/Mubaraklouis/performance-tracker-api">Scalable API for E-Learning Platform</a></h3>
 <p>
   A robust and scalable API built with <strong>Laravel</strong> for a student e-learning platform. 
   It enables course management, assignment tracking, progress monitoring, and real-time notifications for students and instructors.
