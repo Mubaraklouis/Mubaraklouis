@@ -27,13 +27,14 @@ Building distributed systems and scalable backends with Go (Golang) and Laravel 
 
 ## Key Projects 💻 
 <h3>
-  <h3  target="_blank">FocusFlow</h3>
-  <br>
+  FocusFlow
+
   <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
     <a href="https://github.com/Mubaraklouis/Focusflow-frontend" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; margin-right: 8px;">📦 GitHub</a>
     <a href="https://focusfllow.vercel.app" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; pointer-events: none; opacity: 0.7;">🌐 Live Demo (Beta)</a>
   </span>
 </h3>
+<br>
 
 <p>
 FocusFlow is a structured learning platform designed to help learners, students, and professionals create and follow distraction-free learning paths. The platform provides a centralized environment where users can organize courses, track progress, and maintain focus without the distractions of traditional learning platforms.
