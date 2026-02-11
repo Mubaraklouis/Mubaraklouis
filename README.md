@@ -49,34 +49,8 @@ FocusFlow offers a streamlined learning experience through structured course man
 
 
 ## Leadership and Advocacy🎖
-<p>
-  I am passionate about sharing knowledge and empowering others in the tech community. 
-  Here are some of the ways I contribute:
-</p>
 
-<ul>
-  <li>
-    <strong>Newsletter & Blog</strong>: 
-    I run a <a href="your-newsletter-link" target="_blank">newsletter</a> and 
-    <a href="your-blog-link" target="_blank">blog</a> where I regularly post educational 
-    content about technology, with a focus on programming. My goal is to make complex 
-    concepts accessible and help others grow their skills.
-  </li>
-
-  <li>
-    <strong>Teaching Web Development</strong>: 
-    At my college, I teach web development fundamentals to students, helping them build 
-    a strong foundation in HTML, CSS, JavaScript, and modern frameworks.
-  </li>
-
-  <li>
-    <strong>Hackathons</strong>: 
-    I actively participate in hackathons in my area, collaborating with like-minded 
-    individuals to solve real-world problems and build innovative projects. These 
-    experiences have honed my problem-solving skills and allowed me to contribute to 
-    impactful solutions.
-  </li>
-</ul>
+<p> I am passionate about sharing knowledge and empowering others in the tech community. Here are some of the ways I contribute: </p><h4>📬 Newsletter & Blog</h4> <p> I’m currently working on launching a <strong>blog</strong> and will soon be starting a <strong>newsletter</strong> where I’ll regularly post educational content about technology, with a focus on programming. My goal is to make complex concepts accessible and help others grow their skills. <em>(Blog — in progress; Newsletter — coming soon)</em> </p><h4>🎓 Teaching Web Development</h4> <p> At my college, I teach web development fundamentals to students, helping them build a strong foundation in HTML, CSS, JavaScript, and modern frameworks. </p><h4>📺 YouTube Channel</h4> <p> I also run a <a href="https://www.youtube.com/@kualmubaraklouis1799" target="_blank">YouTube channel</a> where I learn and build projects together with the community, sharing insights, tutorials, and practical experiences to inspire and teach others. </p><h4>🚀 Hackathons</h4> <p> I actively participate in hackathons in my area, collaborating with like-minded individuals to solve real-world problems and build innovative projects. These experiences have honed my problem-solving skills and allowed me to contribute to impactful solutions. </p>
 
 
 
