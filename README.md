@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mubarak kual Louis</h1>
 <h3 align="center">A passionate software Engineer | Devops Engineer</h3>
 
-<p>👋Hi there! I'm Mubarak, a Software Engineer specializing in DevOps & Cloud Infrastructure
-Building distributed systems and scalable backends with Go (Golang) and Laravel (PHP), complemented by modern frontends in Vue.js & Nuxt.js. I design and implement CI/CD pipelines, containerize with Docker, orchestrate with Kubernetes, and deploy on AWS—passionate about performance optimization, workflow automation, and solving infrastructure challenges..</p>
+<p>Hi there! I'm Mubarak, a Software Engineer specializing in DevOps & Full-Stack software development
+Building distributed systems and scalable backends with Go (Golang) and Laravel (PHP), complemented by modern frontends in  Nuxt.js (Vue). I design and implement CI/CD pipelines, containerize with Docker, orchestrate with Kubernetes, and deploy on AWS—passionate about performance optimization and workflow automation using Devops best practices.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louis1234546&label=Profile%20views&color=0e75b6&style=flat" alt="louis1234546" /> </p>
 
@@ -15,8 +15,14 @@ Building distributed systems and scalable backends with Go (Golang) and Laravel 
 
 ## Technical Skills 👨‍💻🎖
 
-<ul> <li><strong>Programming Languages:</strong> Golang, PHP, TypeScript, JavaScript, Python</li> <li><strong>Frameworks:</strong> Go/Gin, Laravel, Inertia, Vue.js, Nuxt, React Native, Express</li> <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li> <li><strong>Mobile Development:</strong> React Native</li> <li><strong>UX Design:</strong> Figma</li> <li><strong>DevOps:</strong> Linux, Docker, Kubernetes, AWS Cloud Infrastructure, GitHub Actions, Monitoring & Logging (Prometheus, Grafana), Terraform (Infrastructure as Code)</li> </ul>
-
+| Category               | Skills/Tools                                                                                                 |
+|------------------------|--------------------------------------------------------------------------------------------------------------|
+| Programming Languages  | Golang, PHP, TypeScript, JavaScript, Python                                                                 |
+| Frameworks             | Go/Gin, Laravel, Inertia, Vue.js, Nuxt, React Native, Express                                               |
+| Databases              | MySQL, PostgreSQL, MongoDB                                                                                  |
+| Mobile Development     | React Native                                                                                                |
+| UX Design              | Figma                                                                                                       |
+| DevOps                 | Linux, Docker, Kubernetes, AWS Cloud Infrastructure, GitHub Actions, Monitoring & Logging (Prometheus, Grafana), Terraform (Infrastructure as Code) |
 
 
 ## Key Projects 💻 🎖🎉
@@ -32,13 +38,20 @@ Modern learners face constant distractions across multiple platforms, lack struc
 <br/>
 
 FocusFlow provides:
+
 <br/>
 
-Structured Course Management: Create custom learning paths with clear progression
+Structured Course Management: 
+
+Create custom learning paths with clear progression
+
 Minimalist Interface: Distraction-free environment optimized for learning
+
 Progress Tracking: Visual indicators and completion metrics
+
 Integrated Resources: Attach various course materials (videos, articles, documents) to courses
 Cross-Platform Access: Web and mobile applications with synchronized progress
+
 </p>
 
 
