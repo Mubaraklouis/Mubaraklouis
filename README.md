@@ -10,7 +10,7 @@ Building distributed systems and scalable backends with Go (Golang) and Laravel 
 
 ## About Me 👨‍💻❤️
 
-<p>I'm a software engineer with experience in building scalable and efficient solutions. I enjoy working on projects that solve real-world problems and deliver value to users. My expertise spans backend development with Laravel (PHP) and Go, frontend development with Vue.js and Nuxt.js, and DevOps practices—including deploying and scaling applications using AWS, Docker, Kubernetes, and CI/CD pipelines.</p>
+<p>I'm a software engineer | Devops Engineer with experience in building scalable and efficient solutions. I enjoy working on projects that solve real-world problems and deliver value to users. My expertise spans backend development with Golang and Laravel (PHP), frontend development with Vue.js and Nuxt.js, and DevOps practices—including deploying and scaling applications using AWS, Docker, Kubernetes, and CI/CD pipelines.</p>
 
 
 ## Technical Skills 👨‍💻🎖
@@ -36,21 +36,7 @@ Modern learners face constant distractions across multiple platforms, lack struc
 
 <h4>Solution</h4>
 <br/>
-
-FocusFlow provides:
-
-<br/>
-
-Structured Course Management: 
-
-Create custom learning paths with clear progression
-
-Minimalist Interface: Distraction-free environment optimized for learning
-
-Progress Tracking: Visual indicators and completion metrics
-
-Integrated Resources: Attach various course materials (videos, articles, documents) to courses
-Cross-Platform Access: Web and mobile applications with synchronized progress
+FocusFlow offers a streamlined learning experience through structured course management with custom learning paths, a minimalist and distraction-free interface, visual progress tracking, integrated support for various course materials, and cross-platform access with synchronized progress across web and mobile applications.
 
 </p>
 
