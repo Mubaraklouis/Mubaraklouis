@@ -62,7 +62,7 @@ FocusFlow offers a streamlined learning experience through structured course man
 | X (Twitter)| [@LouisMubarak](https://x.com/LouisMubarak)                                             |
 | LinkedIn   | [Mubarak Kual Louis](https://www.linkedin.com/in/kual-mubarak-louis-b822b8258/)         |
 | Instagram  | [@Mkay_dev](https://www.instagram.com/mkay__dev)                                        |
-| Portfolio  | [Mubarak Kual Louis](https://focusfllow.vercel.app/)                                  |
+| Portfolio  | [Mubarak Kual Louis](https://mubarakkual.vercel.app)                                  |
 
 <p>
   I'm always open to connecting, collaborating, or discussing new opportunities. 
@@ -78,12 +78,12 @@ FocusFlow offers a streamlined learning experience through structured course man
 <table align="center">
   <tr>
     <!-- Top Languages Card -->
-    <td>
+    <!-- <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mubaraklouis&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
-    </td>
+    </td> -->
     <!-- GitHub Stats Card -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mubaraklouis&show_icons=true&locale=en" alt="louis1234546" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mubaraklouis&show_icons=true&locale=en" alt="louis1234546" /> -->
     </td>
   </tr>
   <tr>
