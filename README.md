@@ -27,10 +27,10 @@ Building distributed systems and scalable backends with Go (Golang) and Laravel 
 
 ## Key Projects 💻 
 <h3>
-  <a href="https://github.com/Mubaraklouis/hospital-management-system" target="_blank">FocusFlow</a>
+  <h1  target="_blank">FocusFlow</h1>
   <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/hospital-management-system" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; margin-right: 8px;">📦 GitHub</a>
-    <a href="#" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; pointer-events: none; opacity: 0.7;">🌐 Live Demo (coming soon)</a>
+    <a href="https://github.com/Mubaraklouis/Focusflow-frontend" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; margin-right: 8px;">📦 GitHub</a>
+    <a href="https://focusfllow.vercel.app" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; pointer-events: none; opacity: 0.7;">🌐 Live Demo (Beta)</a>
   </span>
 </h3>
 
