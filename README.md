@@ -42,7 +42,7 @@
 
 | Category               | Skills/Tools                                                                                                 |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
-| Languages              | PHP, TypeScript, JavaScript, Go, Python                                                                      |
+| Languages              | Go, PHP, TypeScript, JavaScript,  Python                                                                      |
 | Backend                | Laravel, Express, Gin, REST APIs                                                                             |
 | Frontend               | Vue 3, Nuxt, Inertia.js, React, Next.js, Tailwind CSS                                                        |
 | Databases              | PostgreSQL, MySQL, MongoDB, Redis                                                                            |
