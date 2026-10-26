@@ -1,29 +1,56 @@
 <h1 align="center">Hi, I'm Mobarak Kuol Louis</h1>
-<h3 align="center">Backend Engineer | DevOps Engineer</h3>
+<h3 align="center">Software Engineer | Full-Cycle Product Development & DevOps</h3>
 
-<p>I'm a backend and DevOps engineer. I write most of my code in Go, and most of what I ship ends up running on Kubernetes on AWS, set up with Terraform.</p>
+<p>I'm a software engineer and DevOps engineer. I develop backend services in Go (Gin) and Laravel and build interfaces with Nuxt and Vue. I also run what I build: I containerise applications with Docker, deploy them to Kubernetes on AWS, provision the infrastructure with Terraform and automate testing and releases with GitHub Actions CI/CD pipelines.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louis1234546&label=Profile%20views&color=0e75b6&style=flat" alt="louis1234546" /> </p>
+<p>Behind the code is a product mindset. I validate the problem and value proposition with a Lean Canvas, design the architecture before implementation, and deliver in agile sprints.</p>
+
+<p align="center">Founder of <a href="https://wellreach.sswoco.org">WellReach</a> · Built and licensed a hospital management system · Hackathon team lead (15th of ~600) · Open to remote roles</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubaraklouis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
 ## About Me 
 
-<p>I got into infrastructure because my job needed it. I'm the IT specialist at SSWOCO, an NGO whose staff work in the field on slow, patchy internet, and there's no money for things to break. So I learned to build systems that are cheap to run, easy to deploy and hard to knock over. That's still what I care about most.</p>
+<p>I'm a software engineer who takes products from the first conversation with users to a running system in production. I start by researching the problem with the people who have it, map the opportunity on a Lean Canvas (customer segments, value proposition and the metrics that matter) and validate the riskiest assumptions before committing to a build. From there I write the requirements, design the architecture, and deliver in agile sprints planned in Jira.</p>
 
-<p>I finish my Software Engineering degree at Kigali Independent University in December 2026, and I'm looking for a remote backend or DevOps role.</p>
+<p>On the engineering side, my core stack is Laravel with Vue 3 and Inertia.js or Nuxt, with Go for services. I also own delivery and operations: Docker, Kubernetes, AWS infrastructure managed with Terraform, and automated testing and deployment with GitHub Actions.</p>
+
+<p>I work as IT Specialist at SSWOCO, a humanitarian organisation whose field teams rely on limited connectivity and tight budgets. In that environment I design and maintain internal systems that need to be dependable, inexpensive to run and simple for staff to use. Alongside this role, I develop and license my own software, including a hospital management system currently in use at a private hospital in Juba, which I installed and continue to support.</p>
+
+<p>I will complete my BSc in Software Engineering at Kigali Independent University in December 2026, and I am open to remote software engineering roles across product and backend development.</p>
+
+
+## How I Work
+
+<p>The steps I follow on every project:</p>
+
+<ol>
+  <li><strong>Problem research.</strong> I start with the people who have the problem. I interview them, observe how they work today and write down what it costs them, before I propose any solution.</li>
+  <li><strong>Lean Canvas.</strong> I capture the business model on a single page: customer segments, their top problems, the unique value proposition, channels, revenue, costs and the key metrics that would show it's working.</li>
+  <li><strong>Validation.</strong> I test the riskiest assumptions with real users before building at scale, and adjust the canvas based on what I learn.</li>
+  <li><strong>Requirements.</strong> I turn what I've learned into a product requirements document (PRD), a technical requirements document (TRD) and use cases written around real users, all kept in Confluence.</li>
+  <li><strong>System design.</strong> I map the system with context, sequence, use case, class and entity-relationship diagrams, and record the main architecture decisions and their trade-offs before implementation.</li>
+  <li><strong>Agile delivery.</strong> I plan work in Jira as a prioritised backlog and short sprints, which keeps scope honest even on solo projects.</li>
+  <li><strong>Build, ship and measure.</strong> Every project gets automated tests, a CI/CD pipeline, containerised deployment and feedback from users after release.</li>
+</ol>
+
+<p><strong>In practice:</strong> WellReach began with interviews with humanitarian organisations about their reporting burden, and is now in pilot with a partner organisation. For FocusFlow, I wrote the PRD, TRD and use cases and designed the services before building them. The design work exposed a bottleneck in video metadata processing and gaps in error handling for external API failures early, when they were cheap to fix.</p>
 
 
 ## Technical Skills 
 
 | Category               | Skills/Tools                                                                                                 |
 |------------------------|--------------------------------------------------------------------------------------------------------------|
-| Programming Languages  | Go, PHP, TypeScript, Python                                                                                  |
-| Frameworks             | Laravel, Vue.js, Nuxt                                                                                        |
-| Databases              | PostgreSQL, Redis                                                                                            |
-| DevOps                 | Docker, Kubernetes, AWS, Terraform, GitHub Actions, Prometheus, Grafana                                      |
+| Languages              | PHP, TypeScript, JavaScript, Go, Python                                                                      |
+| Backend                | Laravel, Express, Gin, REST APIs                                                                             |
+| Frontend               | Vue 3, Nuxt, Inertia.js, React, Next.js, Tailwind CSS                                                        |
+| Databases              | PostgreSQL, MySQL, MongoDB, Redis                                                                            |
+| DevOps & Cloud         | Docker, Kubernetes, AWS, Terraform, GitHub Actions, Linux                                                    |
+| Product & Delivery     | Lean Canvas, customer interviews, PRD/TRD, system design (UML, ERD, sequence diagrams), Agile/Scrum, Jira, Confluence |
 
 
-## Key Projects 
+## What I'm Building 
 <h3>
   WellReach
 
@@ -39,24 +66,67 @@ I started WellReach in 2025 after watching how much time our team spent putting 
 It's in pilot with our first partner organization right now. The code is private because of the data it holds, but I'm happy to walk anyone through how it's built.
 </p>
 
-<h3>
-  FocusFlow
-
-  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/Focusflow-frontend" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; margin-right: 8px;">GitHub</a>
-    <a href="https://focusfllow.vercel.app" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none; pointer-events: none; opacity: 0.7;">Live Demo (Beta)</a>
-  </span>
-</h3>
+<h3>FocusFlow</h3>
 <br>
 
 <p>
-A side project for people who want to learn from online courses without getting pulled into everything else on the internet. You build a learning path, add your materials and see where you are. The backend is Go, the frontend is Nuxt, and it runs on Kubernetes on AWS with Terraform and GitHub Actions. It's still in beta.
+A learning platform for people who want to learn from online courses without getting pulled into everything else on the internet. You build a learning path, add your materials and see where you are. The frontend is Nuxt and the services are Laravel and Go, running in Docker on Kubernetes. I'm currently building out its infrastructure with Terraform and GitHub Actions, and a public repo for it is on the way.
 </p>
+
+
+## Products 
+
+<h3>
+  Hospital Management System
+
+  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
+    <a href="https://github.com/Mubaraklouis/hospital-management-system" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
+  </span>
+</h3>
+<p>A hospital management system built with Laravel, Vue.js and PostgreSQL, with Docker and Kubernetes configuration. A private hospital in Juba licensed it, and I installed and support it.</p>
+
+<h3>
+  School Management Information System
+
+  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
+    <a href="https://github.com/Mubaraklouis/school-mis" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
+  </span>
+</h3>
+<p>A school system for secondary schools: students, classes, marks and attendance. Laravel, Vue 3, Inertia.js and TypeScript. I'm rebuilding it now, with a university edition planned next.</p>
+
+<h3>
+  Inventory System
+
+  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
+    <a href="https://github.com/Mubaraklouis/inventory-system" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
+  </span>
+</h3>
+<p>Stock, sales and user management with dashboards and role-based access. Laravel, Vue 3, Inertia.js and Chart.js.</p>
+
+<h3>
+  Sign-bridge
+
+  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
+    <a href="https://github.com/Mubaraklouis/Sign-bridge" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
+  </span>
+</h3>
+<p>A real-time sign language communication assistant, with a Next.js frontend and an Express and MongoDB API that ships with Docker, Kubernetes manifests and a GitHub Actions pipeline.</p>
+
+<h3>
+  SaveLife
+
+  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
+    <a href="https://github.com/Mubaraklouis/SaveLife" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
+  </span>
+</h3>
+<p>A hackathon project that predicts where people will move during crises in South Sudan. I led a team of five, and we came 15th out of about 600 projects.</p>
+
+<p><em>The code in these repos is public so you can read it, but all rights are reserved. Get in touch if you'd like to use or license one of them.</em></p>
 
 
 ## Other Things I've Done
 
-<h4><strong>Mastery Hub</strong></h4> <p> Interned at Mastery Hub, June to August 2026. </p><h4><strong>Hospital Management System</strong></h4> <p> Built a hospital management system for a private hospital in Juba as a contractor (Laravel, Vue, PostgreSQL). </p><h4> <strong>Hackathons</strong> </h4> <p> Led a team of five at a hackathon. We came 15th out of about 600 projects. </p><h4><strong>Teaching Web Development</strong></h4> <p> I teach web development to students at my university. </p><h4><strong>YouTube Channel</strong></h4> <p> I post cloud and DevOps videos on my <a href="https://www.youtube.com/@kualmubaraklouis1799" target="_blank">YouTube channel</a>. </p>
+<h4><strong>Mastery Hub of Rwanda</strong></h4> <p> Interned from June to August 2026 and led an intern team that built <a href="https://github.com/Mubaraklouis/EliteMotors" target="_blank">EliteMotors</a>, a car sales and rental platform (React, TypeScript, Express, PostgreSQL). </p><h4><strong>Teaching Web Development</strong></h4> <p> I teach web development to students at my university. </p><h4><strong>YouTube Channel</strong></h4> <p> I post cloud and DevOps videos on my <a href="https://www.youtube.com/@kualmubaraklouis1799" target="_blank">YouTube channel</a>. </p>
 
 
 
@@ -65,13 +135,13 @@ A side project for people who want to learn from online courses without getting 
 | Platform   | Link                                                                                     |
 |------------|------------------------------------------------------------------------------------------|
 | Email      | [mubaraklouis@gmail.com](mailto:mubaraklouis@gmail.com)                                 |
+| LinkedIn   | [Mobarak Kuol Louis](https://www.linkedin.com/in/mobarak-kuol-louis/)                   |
 | X (Twitter)| [@LouisMubarak](https://x.com/LouisMubarak)                                             |
-| LinkedIn   | [Mobarak Kuol Louis](https://www.linkedin.com/in/mubarak-kual-louis/)                   |
 | Instagram  | [@Mkay_dev](https://www.instagram.com/mkay__dev)                                        |
 | Portfolio  | [Mobarak Kuol Louis](https://mubarakkual.vercel.app)                                    |
 
 <p>
-  If you're hiring, or just want to talk about Go or Kubernetes, reach out on any of these.
+  If you're hiring, need a product built, or want to license one of the systems above, reach out on any of these.
 </p>
 
 <br>
@@ -82,19 +152,9 @@ A side project for people who want to learn from online courses without getting 
 
 <table align="center">
   <tr>
-    <!-- Top Languages Card -->
-    <!-- <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mubaraklouis&show_icons=true&locale=en&layout=compact" alt="louis1234546" />
-    </td> -->
-    <!-- GitHub Stats Card -->
-    <td>
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mubaraklouis&show_icons=true&locale=en" alt="louis1234546" /> -->
-    </td>
-  </tr>
-  <tr>
     <!-- GitHub Streak Stats Card -->
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubarakLouis" alt="louis" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubaraklouis" alt="GitHub streak" />
     </td>
   </tr>
 </table>
