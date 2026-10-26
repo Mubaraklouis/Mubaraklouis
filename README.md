@@ -74,56 +74,6 @@ A learning platform for people who want to learn from online courses without get
 </p>
 
 
-## Products 
-
-<h3>
-  Hospital Management System
-
-  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/hospital-management-system" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
-  </span>
-</h3>
-<p>A hospital management system built with Laravel, Vue.js and PostgreSQL, with Docker and Kubernetes configuration. A private hospital in Juba licensed it, and I installed and support it.</p>
-
-<h3>
-  School Management Information System
-
-  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/school-mis" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
-  </span>
-</h3>
-<p>A school system for secondary schools: students, classes, marks and attendance. Laravel, Vue 3, Inertia.js and TypeScript. I'm rebuilding it now, with a university edition planned next.</p>
-
-<h3>
-  Inventory System
-
-  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/inventory-system" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
-  </span>
-</h3>
-<p>Stock, sales and user management with dashboards and role-based access. Laravel, Vue 3, Inertia.js and Chart.js.</p>
-
-<h3>
-  Sign-bridge
-
-  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/Sign-bridge" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
-  </span>
-</h3>
-<p>A real-time sign language communication assistant, with a Next.js frontend and an Express and MongoDB API that ships with Docker, Kubernetes manifests and a GitHub Actions pipeline.</p>
-
-<h3>
-  SaveLife
-
-  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://github.com/Mubaraklouis/SaveLife" target="_blank" style="background: #24292e; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">GitHub</a>
-  </span>
-</h3>
-<p>A hackathon project that predicts where people will move during crises in South Sudan. I led a team of five, and we came 15th out of about 600 projects.</p>
-
-<p><em>The code in these repos is public so you can read it, but all rights are reserved. Get in touch if you'd like to use or license one of them.</em></p>
-
-
 ## Other Things I've Done
 
 <h4><strong>Mastery Hub of Rwanda</strong></h4> <p> Interned from June to August 2026 and led an intern team that built <a href="https://github.com/Mubaraklouis/EliteMotors" target="_blank">EliteMotors</a>, a car sales and rental platform (React, TypeScript, Express, PostgreSQL). </p><h4><strong>Teaching Web Development</strong></h4> <p> I teach web development to students at my university. </p><h4><strong>YouTube Channel</strong></h4> <p> I post cloud and DevOps videos on my <a href="https://www.youtube.com/@kualmubaraklouis1799" target="_blank">YouTube channel</a>. </p>
