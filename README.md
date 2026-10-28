@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mobarak Kuol Louis</h1>
 <h3 align="center">Software Engineer | Full-Cycle Product Development & DevOps</h3>
 
-<p>I'm a software engineer and DevOps engineer. I develop backend services in Go (Gin) and Laravel and build interfaces with Nuxt and Vue. I also run what I build: I containerise applications with Docker, deploy them to Kubernetes on AWS, provision the infrastructure with Terraform and automate testing and releases with GitHub Actions CI/CD pipelines.</p>
+<p>I'm a software engineer working on backend and DevOps. I develop backend services in Laravel and Go (Gin) and build interfaces with Vue and Nuxt. I also run what I build: Docker on Linux servers, GitHub Actions for testing and releases, and Prometheus and Grafana for monitoring. I have also deployed services to Kubernetes on AWS (EKS) with infrastructure provisioned in Terraform.</p>
 
 <p>Behind the code is a product mindset. I validate the problem and value proposition with a Lean Canvas, design the architecture before implementation, and deliver in agile sprints.</p>
 
@@ -14,7 +14,7 @@
 
 <p>I'm a software engineer who takes products from the first conversation with users to a running system in production. I start by researching the problem with the people who have it, map the opportunity on a Lean Canvas (customer segments, value proposition and the metrics that matter) and validate the riskiest assumptions before committing to a build. From there I write the requirements, design the architecture, and deliver in agile sprints planned in Jira.</p>
 
-<p>On the engineering side, my core stack is Laravel with Vue 3 and Inertia.js or Nuxt, with Go for services. I also own delivery and operations: Docker, Kubernetes, AWS infrastructure managed with Terraform, and automated testing and deployment with GitHub Actions.</p>
+<p>On the engineering side, my core stack is Laravel with Vue 3 and Inertia.js or Nuxt, with Go for services. I also own delivery and operations: Docker, Linux servers, backups and monitoring, automated testing and deployment with GitHub Actions, and Kubernetes, AWS and Terraform.</p>
 
 <p>I work as IT Specialist at SSWOCO, a humanitarian organisation whose field teams rely on limited connectivity and tight budgets. In that environment I design and maintain internal systems that need to be dependable, inexpensive to run and simple for staff to use. Alongside this role, I develop and license my own software, including a hospital management system currently in use at a private hospital in Juba, which I installed and continue to support.</p>
 
@@ -70,7 +70,7 @@ It's in pilot with our first partner organization right now. The code is private
 <br>
 
 <p>
-A learning platform for people who want to learn from online courses without getting pulled into everything else on the internet. You build a learning path, add your materials and see where you are. The frontend is Nuxt and the services are Laravel and Go, running in Docker on Kubernetes. I'm currently building out its infrastructure with Terraform and GitHub Actions, and a public repo for it is on the way.
+An AI-powered learning and assessment platform. Students turn a subject into short, quest-based units, and lecturers and institutions run assessments that are hard to cheat on. The services are Go and Laravel with a Nuxt frontend. The code is private for now; a public Go service from it is on the way.
 </p>
 
 
