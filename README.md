@@ -61,7 +61,7 @@
 <br>
 
 <p>
-I started WellReach in July 2025. Child protection teams were spending days every month typing up paper registers and rebuilding the same numbers for each donor. WellReach is an offline-first platform for NGOs running child protection and psychosocial support programmes: facilitators record sessions on a phone or tablet, even with no signal, and managers get DRA, 5W and UNICEF reports in one click. It runs on a Go API, a Nuxt admin and a React Native app on PostgreSQL, and keeps each organisation's data separate, which matters a lot when the records are about children.
+I started WellReach in July 2025. Child protection teams were spending days every month typing up paper registers and rebuilding the same numbers for each donor. WellReach lets NGOs run their psychosocial support activities digitally. Facilitators record sessions and attendance in a mobile app that works offline, managers see the results on a dashboard broken down by sex, age, disability and location, and the DRA, 5W and UNICEF reports come out in the format each donor asks for. It runs on a Go API, a Nuxt admin and a React Native app on PostgreSQL, and keeps each organisation's data separate, which matters a lot when the records are about children.
 <br/><br/>
 It's in pilot with its first partner organisation. The code is private because of the data it holds, but I'm happy to walk anyone through how it's built.
 </p>
