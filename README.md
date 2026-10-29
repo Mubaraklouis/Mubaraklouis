@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mobarak Kuol Louis</h1>
-<h3 align="center">Software Engineer | Full-Cycle Product Development & DevOps</h3>
+<h3 align="center">Software Engineer & Founder | Go, Laravel, Vue/Nuxt | AWS, Kubernetes, Terraform | Building FocusFlow & WellReach</h3>
 
 <p>I'm a software engineer working on backend and DevOps. I develop backend services in Laravel and Go (Gin) and build interfaces with Vue and Nuxt. I also run what I build: Docker on Linux servers, GitHub Actions for testing and releases, and Prometheus and Grafana for monitoring. I have also deployed services to Kubernetes on AWS (EKS) with infrastructure provisioned in Terraform.</p>
 
