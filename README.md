@@ -61,16 +61,23 @@
 <br>
 
 <p>
-I started WellReach in 2025 after watching how much time our team spent putting reports together by hand. It's a case management tool: an organization registers the people it supports, logs its activities, and gets its reports out without touching a spreadsheet. Every organization's data is kept completely separate, which matters a lot when the records are about children.
+I started WellReach in July 2025. Child protection teams were spending days every month typing up paper registers and rebuilding the same numbers for each donor. WellReach is an offline-first platform for NGOs running child protection and psychosocial support programmes: facilitators record sessions on a phone or tablet, even with no signal, and managers get DRA, 5W and UNICEF reports in one click. It runs on a Go API, a Nuxt admin and a React Native app on PostgreSQL, and keeps each organisation's data separate, which matters a lot when the records are about children.
 <br/><br/>
-It's in pilot with our first partner organization right now. The code is private because of the data it holds, but I'm happy to walk anyone through how it's built.
+It's in pilot with its first partner organisation. The code is private because of the data it holds, but I'm happy to walk anyone through how it's built.
 </p>
 
-<h3>FocusFlow</h3>
+<h3>
+  FocusFlow
+
+  <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
+    <a href="https://www.focus-flow.studio" target="_blank" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">Website</a>
+    <a href="https://github.com/FoucFlow/focusflow-api" target="_blank" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">Code</a>
+  </span>
+</h3>
 <br>
 
 <p>
-An AI-powered learning and assessment platform. Students turn a subject into short, quest-based units, and lecturers and institutions run assessments that are hard to cheat on. The services are Go and Laravel with a Nuxt frontend. The code is private for now; a public Go service from it is on the way.
+A learning and assessment platform that grew out of my final-year research. Teachers and self-learners turn their own slides, PDFs and videos into short courses that learners work through one unit at a time, with quizzes, final exams and class results for lecturers. It's a Go API (<a href="https://github.com/FoucFlow/focusflow-api">focusflow-api</a>) and a Nuxt app (<a href="https://github.com/Mubaraklouis/Focusflow-frontend">Focusflow-frontend</a>), both open source, with tests and a CI/CD pipeline in GitHub Actions.
 </p>
 
 
@@ -88,7 +95,7 @@ An AI-powered learning and assessment platform. Students turn a subject into sho
 | LinkedIn   | [Mobarak Kuol Louis](https://www.linkedin.com/in/mobarak-kuol-louis/)                   |
 | X (Twitter)| [@LouisMubarak](https://x.com/LouisMubarak)                                             |
 | Instagram  | [@Mkay_dev](https://www.instagram.com/mkay__dev)                                        |
-| Portfolio  | [Mobarak Kuol Louis](https://mubarakkual.vercel.app)                                    |
+| Portfolio  | [mubaraklouis.me](https://www.mubaraklouis.me)                                          |
 
 <p>
   If you're hiring, need a product built, or want to license one of the systems above, reach out on any of these.
