@@ -54,7 +54,7 @@
   WellReach
 
   <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://wellreach.sswoco.org" target="_blank" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">Website</a>
+    <a href="https://wellreach.org" target="_blank" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">Website</a>
   </span>
 </h3>
 <br>
