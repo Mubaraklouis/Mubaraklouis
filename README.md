@@ -34,7 +34,7 @@
   <li><strong>Build, ship and measure.</strong> Every project gets automated tests, a CI/CD pipeline, containerised deployment and feedback from users after release.</li>
 </ol>
 
-<p><strong>In practice:</strong> WellReach began with interviews with humanitarian organisations about their reporting burden, and is now in pilot with a partner organisation. For FocusFlow, I wrote the PRD, TRD and use cases and designed the services before building them. The design work exposed a bottleneck in video metadata processing and gaps in error handling for external API failures early, when they were cheap to fix.</p>
+<p><strong>In practice:</strong> WellReach began with interviews with humanitarian organisations about their reporting burden, and is preparing its pilot with a partner organisation. For FocusFlow, I wrote the PRD, TRD and use cases and designed the services before building them. The design work exposed a bottleneck in video metadata processing and gaps in error handling for external API failures early, when they were cheap to fix.</p>
 
 
 ## Technical Skills 
@@ -54,7 +54,7 @@
   WellReach
 
   <span style="margin-left: 12px; font-size: 0.8rem; font-weight: normal;">
-    <a href="https://wellreach.sswoco.org" target="_blank" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">Website (Pilot)</a>
+    <a href="https://wellreach.sswoco.org" target="_blank" style="background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; text-decoration: none;">Website</a>
   </span>
 </h3>
 <br>
@@ -62,7 +62,7 @@
 <p>
 I started WellReach in July 2025. Child protection teams were spending days every month typing up paper registers and rebuilding the same numbers for each donor. WellReach lets NGOs run their psychosocial support activities digitally. Facilitators record sessions and attendance in a mobile app that works offline, managers see the results on a dashboard broken down by sex, age, disability and location, and the DRA, 5W and UNICEF reports come out in the format each donor asks for. It runs on a Go API, a Nuxt admin and a React Native app on PostgreSQL, and keeps each organisation's data separate, which matters a lot when the records are about children.
 <br/><br/>
-It's in pilot with its first partner organisation. The code is private because of the data it holds, but I'm happy to walk anyone through how it's built.
+It's preparing its pilot with its first partner organisation. The code is private because of the data it holds, but I'm happy to walk anyone through how it's built.
 </p>
 
 <h3>
